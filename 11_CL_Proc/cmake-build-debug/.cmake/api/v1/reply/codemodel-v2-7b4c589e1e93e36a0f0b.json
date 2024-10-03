@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "11_CL_Proc",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cmakepart1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmakepart1-Debug-1f19fdc6a2e6445bc14d.json",
+					"name" : "cmakepart1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cmakepart2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmakepart2-Debug-46f396c5916c2aa5dd05.json",
+					"name" : "cmakepart2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/Code/360cpts/11_CL_Proc/cmake-build-debug",
+		"source" : "/home/Code/360cpts/11_CL_Proc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

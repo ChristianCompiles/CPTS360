@@ -1,0 +1,3 @@
+/home/Code/360cpts/tattle/cmake-build-debug/CMakeFiles/tattle.dir
+/home/Code/360cpts/tattle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Code/360cpts/tattle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

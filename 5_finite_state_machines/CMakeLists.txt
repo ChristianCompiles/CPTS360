@@ -1,0 +1,10 @@
+project(finite_state_machines)
+cmake_minimum_required(VERSION 3.10)
+
+add_executable(code_stats1 Src/codestats_pt1.c)
+add_executable(code_stats2 Src/codestats_pt2.c)
+add_executable(code_stats3 Src/codestats_pt3.c)
+add_executable(code_stats4 Src/codestats_pt4.c)
+add_executable(code_stats5 Src/codestats_pt5.c)
+add_executable(code_stats6 Src/codestats_pt6.c)
+add_executable(code_stats7 Src/codestats_pt7.c)
